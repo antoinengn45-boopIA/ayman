@@ -1,0 +1,43 @@
+{
+  "name": "Ayman — Antoine",
+  "short_name": "Ayman",
+  "description": "Créateur de contenu · YouTube & TikTok",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#07070A",
+  "theme_color": "#07070A",
+  "orientation": "any",
+  "lang": "fr",
+  "categories": ["entertainment", "music"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "YouTube",
+      "short_name": "YT",
+      "description": "Voir la chaîne YouTube",
+      "url": "https://www.youtube.com/@ayman_20-45",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "TikTok",
+      "short_name": "TT",
+      "description": "Voir le TikTok",
+      "url": "https://tiktok.com/@anto_inemusic_",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
